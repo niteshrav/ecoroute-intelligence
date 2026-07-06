@@ -8,3 +8,6 @@ venv/
 .idea/
 .vscode/
 
+.adk/
+.env
+__pycache__/
