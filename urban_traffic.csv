@@ -1,0 +1,16 @@
+route,area,avg_speed_kmph,vehicles_per_hour,congestion_score,co2_emissions_kg_per_hour
+ROUTE_1,Central Market,38,1200,52,180
+ROUTE_2,School Zone,22,2600,78,420
+ROUTE_3,Hospital Road,28,2100,68,350
+ROUTE_4,Industrial Area,14,4300,91,690
+ROUTE_5,Bus Stand,19,3800,86,610
+ROUTE_6,Residential Block A,42,900,40,130
+ROUTE_7,University Road,25,2400,72,390
+ROUTE_8,Old City,17,3200,84,560
+ROUTE_9,Highway Junction,12,4700,95,740
+ROUTE_10,Lake Road,46,700,34,95
+ROUTE_11,Airport Road,31,1600,61,260
+ROUTE_12,Collectorate Circle,18,3500,88,590
+ROUTE_13,Railway Station,21,3300,82,540
+ROUTE_14,Tech Park Road,29,1900,65,310
+ROUTE_15,University Gate,24,2700,76,430
